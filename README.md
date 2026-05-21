@@ -10,7 +10,7 @@ Sobre mim:
 - 🤓 Cientista de Dados aspirante
 
 <br>
-Principais Ferramentas:
+🛠 Principais Ferramentas:
 
 <div>
   <img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/linguagens/python.png?raw=true">
