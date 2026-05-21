@@ -44,4 +44,4 @@ Principais desafios:
 <br>
 
 <a href="https://github.com/BrendonSantos7/Teste">Clique aqui</a> para acessar o repositório no Github <br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNjk3NWI0NTgtNDJkYy00ZTk4LWIwZWQtZDkxMWFjM2JiYjY2IiwidCI6ImFkOGRhY2IwLWU2OTgtNDJkZC04ODY2LWFkYWRkZTQ3MTEwZCJ9">Clique aqui</a> e acesse o projeto desenvolvido.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNjk3NWI0NTgtNDJkYy00ZTk4LWIwZWQtZDkxMWFjM2JiYjY2IiwidCI6ImFkOGRhY2IwLWU2OTgtNDJkZC04ODY2LWFkYWRkZTQ3MTEwZCJ9" target="_blank">Clique aqui</a> e acesse o projeto desenvolvido.
