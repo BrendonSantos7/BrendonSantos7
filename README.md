@@ -9,6 +9,7 @@ Sobre mim:
 - 🌱 Ensino Analise de dados em minha plataforma
 - 🤓 Cientista de Dados aspirante
 
+<br>
 Principais Ferramentas:
 
 <div>
@@ -17,9 +18,12 @@ Principais Ferramentas:
   <img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/linguagens/power%20bi.png?raw=true">
 </div>
 
+<br>
 Onde podem me encontrar: 
 <div>
   <a href="https://www.linkedin.com/in/brendongomessantos/">
     <img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">    
   </a>
 </div>
+
+<br>
