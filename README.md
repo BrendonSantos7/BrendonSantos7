@@ -27,3 +27,7 @@ Onde podem me encontrar:
 </div>
 
 <br>
+
+## Portfólio e Principais Projetos
+
+### Análise de Controle Financeiro Pessoal
