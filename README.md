@@ -10,7 +10,7 @@
 - 🤓 Cientista de Dados aspirante
 
 <br>
-🛠 Principais Ferramentas:
+Principais Ferramentas:
 <br>
 
 <div>
@@ -32,7 +32,7 @@ Onde podem me encontrar:
 ## Portfólio e Principais Projetos
 
 ### Análise de Controle Financeiro Pessoal
-<img align="left" width="500" src="https://github.com/BrendonSantos7/Teste/blob/main/imagens/Dashboard.png?raw=true">
+<img align="right" width="500" src="https://github.com/BrendonSantos7/Teste/blob/main/imagens/Dashboard.png?raw=true">
 Projeto desenvolvido para análise e controle financeiro, utilizando SQL e Power BI para acompanhamento de receitas, despesas e indicadores financeiros.
 Principais desafios:
 <br>
