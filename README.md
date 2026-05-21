@@ -11,6 +11,7 @@
 
 <br>
 🛠 Principais Ferramentas:
+<br>
 
 <div>
   <img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/linguagens/python.png?raw=true">
@@ -31,3 +32,15 @@ Onde podem me encontrar:
 ## Portfólio e Principais Projetos
 
 ### Análise de Controle Financeiro Pessoal
+<img align="left" width="500" src="https://github.com/BrendonSantos7/Teste/blob/main/imagens/Dashboard.png?raw=true">
+Projeto desenvolvido para análise e controle financeiro, utilizando SQL e Power BI para acompanhamento de receitas, despesas e indicadores financeiros.
+Principais desafios:
+<br>
+-Desenvolver consultas SQL para análise financeira e manipulação dos dados.<br>
+-Criar KPIs e métricas para acompanhamento de receitas, despesas e saldo financeiro.<br>
+-Realizar análise temporal da evolução financeira e identificação de padrões de gastos.<br>
+-Aplicar conceitos de modelagem de dados, DAX e storytelling para apoiar a tomada de decisão.
+<br>
+<br>
+
+<a href="https://github.com/BrendonSantos7/Teste">Clique aqui</a> para acessar o repositório no Github
