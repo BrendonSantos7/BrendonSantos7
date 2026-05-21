@@ -2,7 +2,7 @@
 
 ## Analista de dados
 
-Sobre mim:
+👩‍💻 Sobre mim:
 
 - 🔭 Atualmente trabalho como Data Analyst Manager
 - 🏠 Atualmente moro e trabalho nos Estados Unidos
