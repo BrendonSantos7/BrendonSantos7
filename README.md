@@ -16,8 +16,7 @@ Principais Ferramentas:
   <img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/linguagens/power%20bi.png?raw=true" alt="Power BI">
   <img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/linguagens/sql.png?raw=true" alt="SQL">
   <img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/linguagens/python.png?raw=true" alt="Python">
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" alt="Excel">
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma">
+  <img height="40" width="40" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel">
 </div>
 
 <br>
