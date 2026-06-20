@@ -25,12 +25,12 @@
 ### 🛠️ Tecnologias e ferramentas
 
 <p align="left">
-  <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" alt="Power BI"/>
-  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="SQL Server"/>
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python"/>
-  <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel"/>
-  <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma"/>
-  <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" alt="Git"/>
+  <img src="https://img.icons8.com/?size=50&id=Ny0t2MYrJ70p&format=png&color=000000" alt="Power BI"/>
+  <img src="https://img.icons8.com/?size=50&id=J6KcaRLsTgpZ&format=png&color=000000" alt="SQL Server"/>
+  <img src="https://img.icons8.com/?size=50&id=13441&format=png&color=000000" alt="Python"/>
+  <img src="https://img.icons8.com/?size=50&id=117561&format=png&color=000000" alt="Excel"/>
+  <img src="https://img.icons8.com/?size=50&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma"/>
+  <img src="https://img.icons8.com/?size=50&id=62856&format=png&color=000000" alt="Git"/>
 </p>
 
 ---
@@ -39,7 +39,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/brendongomessantos/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/?size=50&id=13930&format=png&color=000000" alt="LinkedIn"/>
   </a>
 </p>
 
