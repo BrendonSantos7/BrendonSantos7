@@ -1,73 +1,70 @@
-### Olá, eu sou o Brendon 👋
+<h1 align="center">Olá, eu sou o Brendon 👋</h1>
+<h3 align="center">Analista de Dados Jr. | Business Intelligence & Analytics</h3>
 
-## Analista de Dados
+<p align="center">
+  <img src="https://img.shields.io/badge/-Brasil-009739?style=flat&logo=googlemaps&logoColor=white" alt="Localização" />
+  <img src="https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-success?style=flat" alt="Status" />
+</p>
 
-🧑‍💻 Sobre mim:
+<p align="center">
+  📊 Transformo dados brutos em decisões de negócio através de Business Intelligence, modelagem de dados e storytelling executivo.
+</p>
 
-- 📊 Desenvolvendo soluções de Business Intelligence e Analytics para transformar dados brutos em decisões estratégicas de negócio.
-- 🌱 Bacharel em Sistemas de Informação.
-- 🎯 Focado em modelagem de dados, otimização de métricas e storytelling executivo.
+---
 
-<br>
-Principais Ferramentas:
-<br>
+### 🧑‍💻 Sobre mim
 
-<div>
-  <img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/linguagens/power%20bi.png?raw=true" alt="Power BI">
-  <img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/linguagens/sql.png?raw=true" alt="SQL">
-  <img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/linguagens/python.png?raw=true" alt="Python">
-  <img height="40" width="40" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel">
-</div>
+- 🎓 Bacharel em Sistemas de Informação
+- 📈 Foco em **modelagem de dados**, **construção de KPIs** e **dashboards executivos**
+- 🧩 Gosto de transformar problemas de negócio em modelos analíticos (Star Schema, DAX, métricas de impacto financeiro)
+- 🌱 Em constante evolução: estudando SQL avançado, Python para análise de dados e boas práticas de visualização
+- 🎯 Em transição de carreira para a área de dados, construindo este portfólio como prova prática das minhas competências
 
-<br>
-Onde podem me encontrar: 
-<div>
+---
+
+### 🛠️ Tecnologias e ferramentas
+
+<p align="left">
+  <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" alt="Power BI"/>
+  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="SQL Server"/>
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python"/>
+  <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel"/>
+  <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma"/>
+  <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" alt="Git"/>
+</p>
+
+---
+
+### 📬 Contato
+
+<p align="left">
   <a href="https://www.linkedin.com/in/brendongomessantos/" target="_blank">
-    <img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">    
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn"/>
   </a>
-</div>
-
-<br>
-
-## Portfólio e Principais Projetos
+</p>
 
 ---
 
-### 1. People Analytics: Diagnóstico Estratégico de Turnover e Retenção
-<img align="left" width="500" src="https://github.com/BrendonSantos7/projeto-rh-analytics/blob/main/recursos_visuais/prints_do_painel/print_visao_geral.png">
-Projeto corporativo completo focado em identificar os gargalos de retenção de talentos da organização, mapear o ciclo de vida dos colaboradores desligados e mensurar o impacto financeiro do atrito de pessoal.
+### 📌 Projetos em destaque
 
-**Principais desafios e entregas:**
-<br>
-- Centralizar e relacionar um ecossistema complexo de 7 fontes de dados de RH via modelo *Star Schema*.<br>
-- Desenvolver métricas de negócio em DAX (Inteligência de Tempo, Taxas de Turnover, Absenteísmo e Acúmulos).<br>
-- Mapear um impacto financeiro crítico estimado em R$ 3,90 Milhões gerado pelas saídas voluntárias.<br>
-- Protótipo de interface em *Dark Mode* desenvolvido no Figma focado em usabilidade executiva.
-<br>
-<br>
+**[👥 People Analytics — Diagnóstico Estratégico de Turnover e Retenção](https://github.com/BrendonSantos7/projeto-rh-analytics)**
 
-🔗 <a href="https://github.com/BrendonSantos7/projeto-rh-analytics">Clique aqui</a> para acessar o repositório no GitHub <br>
-🔗 <a href="https://app.powerbi.com/view?r=eyJrIjoiZTM1MTIyYTAtMmU0ZC00ZWZkLWI1MDAtMDJjN2ViYjUxMTdhIiwidCI6ImFkOGRhY2IwLWU2OTgtNDJkZC04ODY2LWFkYWRkZTQ3MTEwZCJ9" target="_blank">Clique aqui</a> e acesse o projeto desenvolvido. 
+Dashboard executivo que integra 7 fontes de dados de RH via modelagem *Star Schema*, com métricas em DAX (turnover, absenteísmo, inteligência de tempo) e mapeamento de um impacto financeiro de **R$ 3,90 milhões** em saídas voluntárias. Inclui protótipo de interface em Dark Mode desenvolvido no Figma.
+
+[![Dashboard People Analytics](https://github.com/BrendonSantos7/projeto-rh-analytics/raw/main/recursos_visuais/prints_do_painel/print_visao_geral.png)](https://app.powerbi.com/view?r=eyJrIjoiZTM1MTIyYTAtMmU0ZC00ZWZkLWI1MDAtMDJjN2ViYjUxMTdhIiwidCI6ImFkOGRhY2IwLWU2OTgtNDJkZC04ODY2LWFkYWRkZTQ3MTEwZCJ9)
+
+🔗 [Repositório](https://github.com/BrendonSantos7/projeto-rh-analytics) · [Dashboard interativo](https://app.powerbi.com/view?r=eyJrIjoiZTM1MTIyYTAtMmU0ZC00ZWZkLWI1MDAtMDJjN2ViYjUxMTdhIiwidCI6ImFkOGRhY2IwLWU2OTgtNDJkZC04ODY2LWFkYWRkZTQ3MTEwZCJ9)
 
 <br>
-<br>
 
----
+**[💰 Análise de Controle Financeiro Pessoal](https://github.com/BrendonSantos7/Controle-Financeiro)**
 
-### 2. Análise de Controle Financeiro Pessoal
-<img align="right" width="500" src="https://github.com/BrendonSantos7/Controle-Financeiro/blob/main/imagens/Dashboard.png?raw=true">
-Projeto desenvolvido para análise e controle financeiro, utilizando SQL e Power BI para acompanhamento de receitas, despesas e indicadores financeiros.
+Solução end-to-end de controle financeiro com modelagem dimensional em SQL Server e dashboard interativo no Power BI, incluindo KPIs de receitas, despesas, saldo e análise temporal de padrões de gastos.
 
-**Principais desafios e entregas:**
-<br>
-- Desenvolver consultas SQL para análise financeira e manipulação dos dados.<br>
-- Criar KPIs e métricas para acompanhamento de receitas, despesas e saldo financeiro.<br>
-- Realizar análise temporal da evolução financeira e identificação de padrões de gastos.<br>
-- Aplicar conceitos de modelagem de dados, DAX e storytelling para apoiar a tomada de decisão.
-<br>
-<br>
+[![Dashboard Controle Financeiro](https://github.com/BrendonSantos7/Controle-Financeiro/raw/main/imagens/Dashboard.png?raw=true)](https://app.powerbi.com/view?r=eyJrIjoiNjk3NWI0NTgtNDJkYy00ZTk4LWIwZWQtZDkxMWFjM2JiYjY2IiwidCI6ImFkOGRhY2IwLWU2OTgtNDJkZC04ODY2LWFkYWRkZTQ3MTEwZCJ9)
 
-🔗 <a href="https://github.com/BrendonSantos7/Controle-Financeiro">Clique aqui</a> para acessar o repositório no GitHub <br>
-🔗 <a href="https://app.powerbi.com/view?r=eyJrIjoiNjk3NWI0NTgtNDJkYy00ZTk4LWIwZWQtZDkxMWFjM2JiYjY2IiwidCI6ImFkOGRhY2IwLWU2OTgtNDJkZC04ODY2LWFkYWRkZTQ3MTEwZCJ9" target="_blank">Clique aqui</a> e acesse o projeto desenvolvido.
+🔗 [Repositório](https://github.com/BrendonSantos7/Controle-Financeiro) · [Dashboard interativo](https://app.powerbi.com/view?r=eyJrIjoiNjk3NWI0NTgtNDJkYy00ZTk4LWIwZWQtZDkxMWFjM2JiYjY2IiwidCI6ImFkOGRhY2IwLWU2OTgtNDJkZC04ODY2LWFkYWRkZTQ3MTEwZCJ9)
 
 ---
+
+<p align="center"><i>Novos projetos sendo adicionados continuamente — este portfólio está em construção 🚧</i></p>
