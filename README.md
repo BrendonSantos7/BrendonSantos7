@@ -46,6 +46,28 @@
 ---
 ### 📌 Projetos em Destaque
 
+---
+
+Análise de E-commerce Brasileiro — Olist
+
+[![Visão Geral](https://github.com/BrendonSantos7/analise-ecommerce-olist/raw/main/prints/01_visao_geral.png)](https://github.com/BrendonSantos7/analise-ecommerce-olist/blob/main/prints/01_visao_geral.png)
+
+Pipeline de dados completo com análise de vendas, logística e satisfação de clientes
+de um marketplace brasileiro real — do ETL em Python até o dashboard executivo no Power BI.
+
+**Principais desafios e entregas:**
+
+- Pipeline ETL completo em Python com pandas e SQLAlchemy
+- Modelagem dimensional no SQL Server com Esquema Estrela (5 tabelas, 248k linhas)
+- SQL avançado com CTEs e Window Functions respondendo perguntas reais de negócio
+- Dashboard executivo com tooltips interativos, navegação entre páginas e tema dark + laranja
+
+🔗 [Clique aqui](https://github.com/BrendonSantos7/analise-ecommerce-olist) para acessar o repositório no GitHub
+🔗 [Clique aqui](SEU_LINK_POWERBI_AQUI) e acesse o projeto desenvolvido.
+<br>
+<br>
+---
+
 **[👥 People Analytics — Diagnóstico Estratégico de Turnover e Retenção](https://github.com/BrendonSantos7/projeto-rh-analytics)**  
 *Como o RH pode parar de apenas relatar demissões e começar a prever e evitar perdas financeiras?*  
 Neste projeto, desenvolvi uma solução completa para identificar as causas raízes da evasão de talentos de uma empresa.
@@ -55,9 +77,9 @@ Neste projeto, desenvolvi uma solução completa para identificar as causas raí
 
 [![Dashboard People Analytics](https://github.com/BrendonSantos7/projeto-rh-analytics/raw/main/recursos_visuais/prints_do_painel/print_visao_geral.png)](https://app.powerbi.com/view?r=eyJrIjoiZTM1MTIyYTAtMmU0ZC00ZWZkLWI1MDAtMDJjN2ViYjUxMTdhIiwidCI6ImFkOGRhY2IwLWU2OTgtNDJkZC04ODY2LWFkYWRkZTQ3MTEwZCJ9)  
 🔗 **[Ver Repositório no GitHub](https://github.com/BrendonSantos7/projeto-rh-analytics)** · 📊 **[Acessar Dashboard Interativo](https://app.powerbi.com/view?r=eyJrIjoiZTM1MTIyYTAtMmU0ZC00ZWZkLWI1MDAtMDJjN2ViYjUxMTdhIiwidCI6ImFkOGRhY2IwLWU2OTgtNDJkZC04ODY2LWFkYWRkZTQ3MTEwZCJ9)**
-
 <br>
 <br>
+---
 
 **[💰 Solução End-to-End de Analytics — Finanças Corporativas/Pessoais](https://github.com/BrendonSantos7/Controle-Financeiro)**  
 *Um projeto que comprova domínio de ponta a ponta: desde a modelagem física em banco de dados relacional até a entrega de valor visual.*  
